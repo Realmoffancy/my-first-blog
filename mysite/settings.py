@@ -25,7 +25,7 @@ SECRET_KEY = '$hmm_%5!=oro=3sesw41akjx9qp+-&64q60i@ef20&n_0xr4m7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dadadecor.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
